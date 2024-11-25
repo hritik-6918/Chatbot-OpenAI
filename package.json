@@ -8,7 +8,12 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+<<<<<<< HEAD
     "node-appwrite": "^12.0.1"
+=======
+    "node-appwrite": "^12.0.1",
+    "openai": "^4.73.0"
+>>>>>>> e8be25b (commit done)
   },
   "devDependencies": {
     "prettier": "^3.2.5"
